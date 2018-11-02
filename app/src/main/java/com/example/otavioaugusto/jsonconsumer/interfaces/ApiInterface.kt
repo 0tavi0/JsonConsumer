@@ -1,4 +1,4 @@
-package com.example.otavioaugusto.jsonconsumer
+package com.example.otavioaugusto.jsonconsumer.interfaces
 
 import com.example.otavioaugusto.jsonconsumer.model.DataResponse
 import retrofit2.Call

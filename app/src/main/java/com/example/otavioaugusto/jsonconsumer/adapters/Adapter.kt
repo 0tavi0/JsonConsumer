@@ -1,4 +1,4 @@
-package com.example.otavioaugusto.jsonconsumer
+package com.example.otavioaugusto.jsonconsumer.adapters
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
-import com.example.otavioaugusto.jsonconsumer.R.id.parent
+import com.example.otavioaugusto.jsonconsumer.R
 import com.example.otavioaugusto.jsonconsumer.model.User
 
 class Adapter(val listaUsuario: ArrayList<User>, val context : Context) : RecyclerView.Adapter<Adapter.ViewHolder>() {
