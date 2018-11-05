@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity(), ListaContrato.View {
         btnClique.setOnClickListener {
             presenter.getUser()
         }
-        
+
     }
 
     override fun showProgressBar() {
