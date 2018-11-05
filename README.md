@@ -1,6 +1,6 @@
 # JsonConsumer
 Projeto JsonConsumer da empresa [PontoTel](https://www.pontotel.com.br), 
-onde é feito uma requisição para um endpoint e posteriormente exibido uma lista.
+projeto desenvolvido em Kotlin, onde é feito uma requisição para um endpoint e posteriormente exibido uma lista.
 
 # Instalação
 - Está anexado neste projeto o arquivo apk. A apk pode ser baixado clicando 
