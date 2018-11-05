@@ -8,7 +8,7 @@ onde é feito uma requisição para um endpoint e posteriormente exibido uma lis
 
 # ScreenShots
 <p align="center">
-  <img src="screenshots/gif.mp4" width="200" title="hover text">
+  <img src="screenshots/gif.gif" width="200" title="hover text">
   <img src="screenshots/tela1.jpeg" width="200" alt="accessibility text">
   <img src="screenshots/tela2.jpeg" width="200" alt="accessibility text">
 </p>
